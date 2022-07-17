@@ -14,6 +14,7 @@ reflects the ideal of co-production and collaboration where citizens and adminis
 ## Questions that the Citizen Participation Networks is Supposed to answer
 What prompts one community, to be open, inclusive, and deliberative in their interactions with the public, while other communities, opt to exclude citizens as much as possible? What characteristics are present in the open and deliberative environments that are not present in the closed environments? why and how citizens are included in the deliberative process. Why do some public administrators embrace the idea of including citizens? 
 
-## Decentralized participation model
-The frames and modalities will adapt a decentralized protocol stack that implements current decentralized technologies like Blockchain to model physical realities of civic participation.
+## Blockchain Decentralized networking participation model
+The frames and modalities will adapt a decentralized protocol stack that implements current decentralized technologies like Blockchain to model physical realities of civic participation. Blockchain Decentralized networking platforms built on blockchain protocols/platforms that enable the development of applications to drive the privacy-focused era of user engagement.
+With decentralization in place, the manipulation for an entity’s gains fades out, resulting in a better user experience. Here no one, in particular, can take core decisions as most of the dapps follow a community first approach
  
