@@ -17,4 +17,7 @@ What prompts one community, to be open, inclusive, and deliberative in their int
 ## Blockchain Decentralized networking participation model
 The frames and modalities will adapt a decentralized protocol stack that implements current decentralized technologies like Blockchain to model physical realities of civic participation. Blockchain Decentralized networking platforms built on blockchain protocols/platforms that enable the development of applications to drive the privacy-focused era of user engagement.
 With decentralization in place, the manipulation for an entity’s gains fades out, resulting in a better user experience. Here no one, in particular, can take core decisions as most of the dapps follow a community first approach
+
+## The Citizen Participation dAPP
+Blockchain Decentralized networking platforms built on blockchain protocols/platforms that enable the development of applications. Because Blockchain social media networks are decentralized, there is no central proprietary authority in charge of all data. Instead, the data is distributed across servers at each network node in a homogeneous and decentralized manner. By keeping user content on a blockchain’s immutable ledger, social media ventures can avoid censorship. They can also provide users control over incentives and reputation points
  
