@@ -20,5 +20,5 @@ With decentralization in place, the manipulation for an entity’s gains fades o
 
 ## The Citizen Participation dAPP
 Blockchain Decentralized networking platforms built on blockchain protocols/platforms that enable the development of applications. Because Blockchain social media networks are decentralized, there is no central proprietary authority in charge of all data. Instead, the data is distributed across servers at each network node in a homogeneous and decentralized manner. By keeping user content on a blockchain’s immutable ledger, social media ventures can avoid censorship. They can also provide users control over incentives and reputation points
-The dAPP for the citizen participation network will also feature anti censorship tools
+The dAPP for the citizen participation network will also feature anti censorship tools. These are to circumvent blockage, privacy protection and outage torrolence. 
  
