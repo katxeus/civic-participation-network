@@ -26,4 +26,4 @@ The dAPP for the citizen participation network will also feature anti censorship
 Using natural language processing to provide multiple-lingual deliberations among a wide spectrum of participants 
 
 ## Fault Torrolence
-Engineered with the ability to function with partial outage 
+Engineered with the ability to function with partial outage and full outage in offline settings.
