@@ -27,3 +27,6 @@ Using natural language processing to provide multiple-lingual deliberations amon
 
 ## Fault Torrolence
 Engineered with the ability to function with partial outage and full outage in offline settings.
+
+## Deriverables as Smart contracts
+Manifestos and mandates are executed as Smart contracts against which  evaluations and needs assessment mechanisms are benchmarker against 
