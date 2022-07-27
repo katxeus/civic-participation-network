@@ -29,4 +29,7 @@ Using natural language processing to provide multiple-lingual deliberations amon
 Engineered with the ability to function with partial outage and full outage in offline settings.
 
 ## Deriverables as Smart contracts
-Manifestos and mandates are executed as Smart contracts against which  evaluations and needs assessment mechanisms are benchmarker against 
+Manifestos and mandates are executed as Smart contracts against which  evaluations and needs assessment mechanisms are benchmarked against. 
+
+## Actionable Civic Tools
+These are to include tools such as petitions and anti-voting-rigging mechanisms that are grounded in technical principles of the blockchain. 
