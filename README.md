@@ -33,6 +33,6 @@ Manifestos and mandates are executed as Smart contracts against which  evaluatio
 
 ## Actionable Civic Tools
 These are to include tools such as petitions and anti-voting-rigging mechanisms that are grounded in technical principles of the blockchain. 
-
+and cryptography 
 ## Whistle Blowing
-As a platform for civic deliberation, the ability for both open and anonymous disclosure and uncovering of wrong doing will be supported and other exposure mechanisms for accountability. This will be grounded in anonymity and privacy. 
+As a platform for civic deliberation, with the ability for both open and anonymous disclosure and uncovering of wrong doing will be supported and other exposure mechanisms for accountability. This will be grounded in anonymity and privacy. 
