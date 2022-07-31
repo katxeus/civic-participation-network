@@ -34,5 +34,10 @@ Manifestos and mandates are executed as Smart contracts against which  evaluatio
 ## Actionable Civic Tools
 These are to include tools such as petitions and anti-voting-rigging mechanisms that are grounded in technical principles of the blockchain. 
 and cryptography 
+
 ## Whistle Blowing
 As a platform for civic deliberation, with the ability for both open and anonymous disclosure and uncovering of wrong doing will be supported and other exposure mechanisms for accountability. This will be grounded in anonymity and privacy. 
+
+## CivicTech API
+This is not only for a single geocivic locale but will also made to inspire several other civic locales as a free open source project to help inspire and foster better civic engagement and participation.
+
