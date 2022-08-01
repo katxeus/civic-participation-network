@@ -41,3 +41,5 @@ As a platform for civic deliberation, with the ability for both open and anonymo
 ## CivicTech API
 This is not only for a single geocivic locale but will also made to inspire several other civic locales as a free open source project to help inspire and foster better civic engagement and participation.
 
+## Monitoring and Evaluation
+To act as a monitoring and Evaluation tool grounded in principles of needs assessment 
