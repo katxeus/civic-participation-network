@@ -43,3 +43,6 @@ This is not only for a single geocivic locale but will also made to inspire seve
 
 ## Monitoring and Evaluation
 To act as a monitoring and Evaluation tool grounded in principles of needs assessment 
+
+## Needs Assessment 
+Implement tools for needs assessment against public projects and administrators as an accountability mechanisms to engage participation amongst the citizenry
