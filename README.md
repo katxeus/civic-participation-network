@@ -45,4 +45,6 @@ This is not only for a single geocivic locale but will also made to inspire seve
 To act as a monitoring and Evaluation tool grounded in principles of needs assessment 
 
 ## Needs Assessment 
-Implement tools for needs assessment against public projects and administrators as an accountability mechanisms to engage participation amongst the citizenry
+Implement tools for needs assessment against public projects and administrators as an accountability mechanisms to engage participation amongst the citizenry. 
+## News and Publication
+Everything is to be summed up as news and media publication timeline with thought provoking pieces to scrutinze service delivery with the ability for citizen reacions.
