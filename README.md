@@ -49,4 +49,5 @@ Implement tools for needs assessment against public projects and administrators 
 
 ## News and Publication
 Everything is to be summed up as news and media publication timeline with thought provoking pieces to scrutinze service delivery with the ability for citizen reacions.
-Socialfied platform where citizens can engage leaders in threaded chats, feeds, media, posts eyc
+Socialfied platform where citizens can engage leaders in threaded chats, feeds, media, posts and question and answer sessions. 
+
