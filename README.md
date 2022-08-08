@@ -48,5 +48,9 @@ To act as a monitoring and Evaluation tool grounded in principles of needs asses
 Implement tools for needs assessment against public projects and administrators as an accountability mechanisms to engage participation amongst the citizenry. 
 
 ## News and Publication
-Everything is to be summed up as news and media publication timeline with thought provoking pieces to scrutinze service delivery with the ability for citizen reacions. Socialfied platform where citizens can engage leaders in threaded chats, feeds, media, posts and question and answer sessions. This is to be built on top of movim, a decentralized social and IM platform, as a web frontend for the XMPP protocol.
+Everything is to be summed up as news and media publication timeline with thought provoking pieces to scrutinze service delivery with the ability for citizen reacions. Socialfied platform where citizens can engage leaders in threaded chats, feeds, media, posts and question and answer sessions. This is to be built on top of movim, a decentralized social and IM platform, as a web frontend for the XMPP protocol. This will allow publication of articles, chats, collaborations and streams.
+
+
+
+
 
