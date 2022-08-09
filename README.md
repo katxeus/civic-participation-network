@@ -8,6 +8,9 @@ This is to champion digital inclusivity by conceptualizing a proxy representatio
 
 Civic literacy centers on the belief that an aware, informed and engaged citizens are society's greatest assets for solving the most critical problems in our communities. The adoption of state of the art technology and knowledge across sectors would provide powerful new tools for democratic engagement and problem solving. This is to embrace learning through experimentation, network building and knowledge sharing to advance the civic potential of people and technology.
 
+## Open Gov't
+This is to showcase fundamental rethinking to the concept of open government.
+
 ## Citizen as co-producer/Administrator co-producer: 
 reflects the ideal of co-production and collaboration where citizens and administrators collaborate with one another to solve problems and get things done. This is opposed to models where citizens are thought to lack the knowledge and expertise to be involved in decision making so they provide input, when asked, but otherwise quietly accept the actions and decisions of the administrative experts. Also administrators serve and empower citizens as they manage public organizations and implement public policy. Public servants act as facilitators and partners rather than experts.
 
