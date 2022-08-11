@@ -50,10 +50,10 @@ To act as a monitoring and Evaluation tool grounded in principles of needs asses
 ## Needs Assessment 
 Implement tools for needs assessment against public projects and administrators as an accountability mechanisms to engage participation amongst the citizenry. 
 
-## Open research and collaboration
-Open research is research that is openly accessible and modifiable by others. 
-Much like open-source schemes the central theme of open research is to make clear accounts of the methodology freely available via the internet, along with any data or results extracted or derived from them. 
-This permits a massively distributed collaboration, and one in which anyone may participate at any level of the project.
+## Open civic research and collaboration
+Open civic research that is openly accessible and modifiable by others. 
+Much like open-source schemes the central theme of open civic research is to make clear accounts of the methodology freely available via the internet, along with any data or results extracted or derived from them. 
+This is to permit a massively distributed collaboration, and one in which anyone may participate at any level of civic initiative.
 
 ## News and Publication
 Everything is to be summed up as news and media publication timeline with thought provoking pieces to scrutinze service delivery with the ability for citizen reacions. Socialfied platform where citizens can engage leaders in threaded chats, feeds, media, posts and question and answer sessions. This is to be built on top of movim, a decentralized social and IM platform, as a web frontend for the XMPP protocol. This will allow publication of articles, chats, collaborations and streams.
