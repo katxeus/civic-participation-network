@@ -58,6 +58,8 @@ This is to permit a massively distributed collaboration, and one in which anyone
 ## News and Publication
 Everything is to be summed up as news and media publication timeline with thought provoking pieces to scrutinze service delivery with the ability for citizen reacions. Socialfied platform where citizens can engage leaders in threaded chats, feeds, media, posts and question and answer sessions. This is to be built on top of movim, a decentralized social and IM platform, as a web frontend for the XMPP protocol. This will allow publication of articles, chats, collaborations and streams. This will allow communities to publish and subscribe to various nodes on different topics. 
 
+## Analytics and Benchmarks
+The platform will showcase the state of the art data analytics and benchmarking tools for administrative assessment 
 
 
 
