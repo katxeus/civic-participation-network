@@ -61,6 +61,8 @@ Everything is to be summed up as news and media publication timeline with though
 ## Analytics and Benchmarks
 The platform will showcase the state of the art data analytics and benchmarking tools for administrative assessment 
 
+## Application Programming Interface
+The Citizen Participation Network would expose APIs to other platforms for collaboration and interoperability 
 
 
 
