@@ -63,6 +63,6 @@ The platform will showcase the state of the art data analytics and benchmarking 
 
 ## Application Programming Interface
 The Citizen Participation Network would expose APIs to other platforms for collaboration and interoperability 
-This will also implement the ability for civic communication standards and protocols 
+This will also implement the ability for civic communication standards and protocols. This will enable others to extend CPN with new functionality and abilities whather on platform or off-platform.
 
 
