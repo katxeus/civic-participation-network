@@ -69,5 +69,9 @@ This will also implement the ability for civic communication standards and proto
 The platform is to provide an environment to foster and enourage theorization and idiation of civic concepts and alternatives to civic challenges and opportunities.
 
 ## Mentorship 
-A platform to mentor civic participation to the next generation of leaders and the citizenry.
+A platform to mentor civic participation to the next generation of leaders and the citizenry. 
+
+## Civic Petitioning
+A means to crowdsource advocacy, conscent and mobilisation of the citizenry to stand behind a civic cause or idiation.
+
 
