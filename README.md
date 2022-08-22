@@ -74,4 +74,5 @@ A platform to mentor civic participation to the next generation of leaders and t
 ## Civic Petitioning
 A means to crowdsource advocacy, conscent and mobilisation of the citizenry to stand behind a civic cause or idiation.
 
-
+## Policy Research
+A hub for formulation of policy research and collaboration among scholars and practitioners 
