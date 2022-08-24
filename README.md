@@ -76,3 +76,6 @@ A means to crowdsource advocacy, conscent and mobilisation of the citizenry to s
 
 ## Policy Research
 A hub for formulation of policy research and collaboration among scholars and practitioners. This is also to feature policy formulation and theorization among participation theorists and practioners.
+
+## Social Injustice
+A medium to voice social injustice by participating members 
