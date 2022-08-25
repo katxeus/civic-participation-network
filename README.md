@@ -79,3 +79,6 @@ A hub for formulation of policy research and collaboration among scholars and pr
 
 ## Social Injustice
 A medium to voice social injustice by participating members 
+
+## Voter Registration and Voting
+
