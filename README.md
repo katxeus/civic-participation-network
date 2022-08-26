@@ -81,4 +81,5 @@ A hub for formulation of policy research and collaboration among scholars and pr
 A medium to voice social injustice by participating members 
 
 ## Voter Registration and Voting
+Present the ability to deliberate in civic exercises like voting and election of leaders by participating citizens.
 
