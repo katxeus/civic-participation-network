@@ -82,4 +82,4 @@ A medium to voice social injustice by participating members
 
 ## Electronic Voting and Registration
 Present the ability to deliberate in civic exercises like electroniv voting and election of leaders by participating citizens.
-Blockchain based voting
+Blockchain based voting this is to introduce an integrity layer that is decentralized from a central authority that can be compromised and corrupted.
