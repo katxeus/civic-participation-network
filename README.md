@@ -86,7 +86,7 @@ Blockchain based voting this is to introduce an integrity layer that is decentra
 This helps to achieythe ultimate principle of one man one vote and helps to reed the voting exercise of duplication of votes . 
 
 ## Global Geo-Civic Participation
-Foster the inclusion of foreign and dyspora civic participation as one of the first few steps in creation of global citizenry in solving not only localized challenges but also global challenges. Disdents, dual citizenship holders and exiled individuals can get a chance to take part in the deliberation process. 
-Exchange and development of civic ideas
+Foster the inclusion of foreign and dyspora civic participation as one of the first few steps in creation of global citizenry in solving not only localized challenges but also global challenges. Disdents, dual citizenship holders and exiled individuals can get a chance to take part in the deliberation process. Exchange and development of civic idealogies. 
 
+## 
 
