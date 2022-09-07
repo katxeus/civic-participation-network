@@ -88,6 +88,6 @@ This helps to achieythe ultimate principle of one man one vote and helps to reed
 ## Global Geo-Civic Participation
 Foster the inclusion of foreign and dyspora civic participation as one of the first few steps in creation of global citizenry in solving not only localized challenges but also global challenges. Disdents, dual citizenship holders and exiled individuals can get a chance to take part in the deliberation process. Exchange and development of civic idealogies. 
 
-## Think Tanks
-provide thinks to participationg citizens 
+## Collaboration Think Tanks
+The citizen participation network wil provide collaboration think tanks to participationg citizens as a platform to exchange civic ideations.
 
