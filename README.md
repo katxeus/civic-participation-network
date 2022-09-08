@@ -91,3 +91,6 @@ Foster the inclusion of foreign and dyspora civic participation as one of the fi
 ## Collaboration Think Tanks
 The citizen participation network wil provide collaboration think tanks to participationg citizens as a platform to exchange civic ideations.
 
+## Simulations and polls
+The platform will enable opinion polls and simulations of civic events and phenomenal 
+
