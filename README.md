@@ -94,3 +94,5 @@ The citizen participation network wil provide collaboration think tanks to parti
 ## Simulations and polls
 The platform will enable opinion polls and simulations of civic events and phenomenal 
 
+## AMA
+Ask me anything by leaders from participating citizens
