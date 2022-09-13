@@ -95,4 +95,7 @@ The citizen participation network wil provide collaboration think tanks to parti
 The platform will enable opinion polls and simulations of civic events and phenomenal 
 
 ## AMA
-Ask me anything by leaders from participating citizens. Raising concerns and benchmarking service delivery. Such presents a townhall style of questions and answers from those who seek accountability
+Ask me anything by leaders from participating citizens. Raising concerns and benchmarking service delivery. Such presents a townhall style of questions and answers from those who seek accountability.
+
+## Research 
+A platform for participation theorists and practitioners collaborate to publish works on evidence-based research and ideation to further the understanding of citizen participation. 
