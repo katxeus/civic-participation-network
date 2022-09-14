@@ -99,3 +99,6 @@ Ask me anything by leaders from participating citizens. Raising concerns and ben
 
 ## Research 
 A platform for participation theorists and practitioners collaborate to publish works on evidence-based research and ideation to further the understanding of citizen participation. 
+
+## Whistle Blowing
+Name and Shame wrong doing by those in power
