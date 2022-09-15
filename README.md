@@ -102,3 +102,4 @@ A platform for participation theorists and practitioners collaborate to publish 
 
 ## Whistle Blowing
 Name and Shame wrong doing by those in power
+This is to help nurture the culture of transparency and open knowledge that's accessible to everyone 
