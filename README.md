@@ -104,3 +104,5 @@ A platform for participation theorists and practitioners collaborate to publish 
 Name and Shame wrong doing by those in power
 This is to help nurture the culture of transparency and open access to knowledge by everyone as a mechanism to hold those in power accountable.
 
+## Translations
+Laws and policy translation 
