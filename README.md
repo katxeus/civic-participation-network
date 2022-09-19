@@ -106,3 +106,6 @@ This is to help nurture the culture of transparency and open access to knowledge
 
 ## Translations
 Laws and policy translation 
+
+## Misinformation
+The platform will implement mechanisms to cun misinformation and fake news 
