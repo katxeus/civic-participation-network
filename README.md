@@ -109,3 +109,6 @@ Laws and policy translation
 
 ## Misinformation
 The platform will implement mechanisms to cun misinformation and fake news 
+
+## Civic Mentorship
+Provide a means to provide civic literacy through mentorships and apprenticeships
