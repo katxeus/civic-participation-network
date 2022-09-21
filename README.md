@@ -108,7 +108,7 @@ This is to help nurture the culture of transparency and open access to knowledge
 Laws and policy translation 
 
 ## Misinformation
-The platform will implement mechanisms to cun misinformation and fake news 
+The platform will implement mechanisms to cun misinformation and fake news. This will depend on anti deception tool that verify real events 
 
 ## Civic Mentorship
 Provide a means to provide civic literacy through mentorships and apprenticeships
