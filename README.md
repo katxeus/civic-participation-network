@@ -112,4 +112,4 @@ The platform will implement mechanisms to cun misinformation and fake news. This
 Such a form of civic participation will be developed at the core of the platform. Support forensic style of fact checking to counter disinformation sourcing and propagation. 
 
 ## Civic Mentorship
-Provide a means to provide civic literacy through mentorships and apprenticeships
+Provide a means to provide civic literacy through mentorships and apprenticeships. Using pedagogy and other educator-learner techniques to transfer knowledge to willing partpating citizens 
