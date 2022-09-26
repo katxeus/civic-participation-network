@@ -105,11 +105,13 @@ Name and Shame wrong doing by those in power
 This is to help nurture the culture of transparency and open access to knowledge by everyone as a mechanism to hold those in power accountable.
 
 ## Translations
-Laws and policy translation 
+Laws and policy interpretation and translation for the citizenry into the several local languages.
 
 ## Misinformation
 The platform will implement mechanisms to cun misinformation and fake news. This will depend on anti deception tool that verify real events. Using crowd sourced news to verify and ascertain conflicting versions of events. 
 Such a form of civic participation will be developed at the core of the platform. Support forensic style of fact checking to counter disinformation sourcing and propagation. 
 
 ## Civic Mentorship
-Provide a means to provide civic literacy through mentorships and apprenticeships. Using pedagogy and other educator-learner techniques to transfer knowledge to willing partpating citizens 
+Provide a means to provide civic literacy through mentorships and apprenticeships. Using pedagogy and other educator-learner techniques to transfer knowledge to willing partpating citizens. 
+
+
