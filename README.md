@@ -117,4 +117,5 @@ Provide a means to provide civic literacy through mentorships and apprenticeship
 ## Lobbying and Civic Philanthropy 
 Facilitate the crowd-sourcing of financial resources for causes in the civic domains.
 
-
+## Leadership Index
+Use the platform's open sourced data to compute and derive a leadersip index that quantifies and assess leader-citizen engagement. 
