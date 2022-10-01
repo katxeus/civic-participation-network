@@ -119,3 +119,4 @@ Facilitate the crowd-sourcing of financial resources for causes in the civic dom
 
 ## Leadership Index
 Use the platform's open sourced data to compute and derive a leadersip index that quantifies and assess leader-citizen engagement. This will help quantify a parametrized measurements of leader engagement to the citizenry. 
+The index will present a measure of participation 
