@@ -124,3 +124,4 @@ The index will present a measure of participation.
 ## Participation Index
 Similarly, a citizen participation index formulated to quantify civic participation by the citizenry. 
 The formulated participation index will help benchmark participation with performance measurements derived to quantify regional, continental and international participation. 
+And from all quantifiable metrics derived from all platform engagements, reactionary mechanisms on news, content, and all forms of civic footprints effected by leaders will be weighted variables for the leader's civic participation indice score.  
