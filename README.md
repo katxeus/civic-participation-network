@@ -127,4 +127,4 @@ The formulated participation index will help benchmark participation with perfor
 
 ## Civic Index
 And from all quantifiable metrics derived from all platform engagements, reactionary mechanisms on news, content, and all forms of civic footprints effected by leaders will be weighted variables for the leader's civic participation indice score.  
-As a yard stuck or a scorecard to help those in need of improvement or to help reward those who have excelled. 
+As a yard stick or a scorecard to help those in need of improvement or to reward those who have excelled at civic engagement and participation. 
