@@ -114,8 +114,8 @@ Such a form of civic participation will be developed at the core of the platform
 ## Civic Mentorship and apprenticeships 
 Provide a means to provide civic literacy through mentorships and apprenticeships. Using pedagogy and other educator-learner techniques to transfer knowledge to willing partpating citizens. 
 
-## Lobbying and Civic Philanthropy 
-Facilitate the crowd-sourcing of financial resources for causes in the civic domains.
+## Civic Philanthropy 
+Facilitate lobbying, fundraising and crowd-sourcing of financial resources for causes in the civic domains.
 
 ## Leadership Index
 Use the platform's open sourced data to compute and derive a leadersip index that quantifies and assess leader-citizen engagement. This will help quantify a parametrized measurements of leader engagement to the citizenry. 
