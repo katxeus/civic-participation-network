@@ -132,3 +132,6 @@ Use the platform to help standardize the civic index as the agreed scientific ra
 
 ## Civil Society
 The platform will aspire to create a home for civil society where desent can't be quelled, a safe space to voice civic concerns by the citizenry. 
+
+## CPN Wiki
+Besides news, articles and research, the citizen participation network as a platform, will feature a wiki to help complement other sources of civic literacy.
