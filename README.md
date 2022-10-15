@@ -131,7 +131,7 @@ As a yard stick or a scorecard to help those in need of improvement or to reward
 Use the platform to help standardize the civic index as the agreed scientific ranking and measure of civic participatory engagement. 
 
 ## Civil Society
-The platform will aspire to create a home for civil society where desent can't be quelled, a safe space to voice civic concerns by the citizenry. 
+The platform will aspire to create a home for civil society where desent can't be quelled, a safe space to voice civic concerns by the citizenry. This feature of the platform is to help provide those whose dissent is at a risk of getting silenced get a safe space.
 
 ## CPN Wiki
 Besides news, articles and research, the citizen participation network as a platform, will feature a wiki to help complement other sources of civic literacy.
