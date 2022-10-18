@@ -121,11 +121,9 @@ Facilitate lobbying, fundraising and crowd-sourcing of financial resources for c
 Use the platform's open sourced data to compute and derive a leadersip index that quantifies and assess leader-citizen engagement. This will help quantify a parametrized measurements of leader engagement to the citizenry. 
 The index will present a measure of participation. 
 
-## Participation Index
+## Civic Participation Index
 Similarly, a citizen participation index formulated to quantify civic participation by the citizenry. 
 The formulated participation index will help benchmark participation with performance measurements derived to quantify regional, continental and international participation. 
-
-## Civic Index
 And from all quantifiable metrics derived from all platform engagements, reactionary mechanisms on news, content, and all forms of civic footprints effected by leaders will be weighted variables for the leader's civic participation indice score.  
 As a yard stick or a scorecard to help those in need of improvement or to reward those who have excelled at civic engagement and participation. 
 Use the platform to help standardize the civic index as the agreed scientific ranking and measure of civic participatory engagement. 
@@ -135,3 +133,4 @@ The platform will aspire to create a home for civil society where desent can't b
 
 ## Participation Wiki
 Besides news, articles and research, the citizen participation network as a platform, will feature a wiki to help complement other sources of civic literacy.
+
