@@ -137,4 +137,4 @@ The platform will aspire to create a home for civil society where desent can't b
 Besides news, articles and research, the citizen participation network as a platform, will feature a wiki to help complement other sources of civic literacy. And ask me anything expositions. 
 
 ## Participation Chapters
-Facilitate the creation and moderation of Global civic participation chapters that adapt uniquely to different global locales. A need that will require the platform to support many languages. 
+Facilitate the creation and moderation of Global civic participation chapters that adapt uniquely to different global locales. A need that will require the platform to support many languages. This will help civic exchange across geopolitical lines. 
