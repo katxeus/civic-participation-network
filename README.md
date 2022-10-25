@@ -125,7 +125,7 @@ The index will present a measure of participation.
 Similarly, a citizen participation index formulated to quantify civic participation by the citizenry. 
 The formulated participation index will help benchmark participation with performance measurements derived to quantify regional, continental and international participation. 
 
-International Participation Ranking
+## International Participation Ranking
 And from all quantifiable metrics derived from all platform engagements, reactionary mechanisms on news, content, and all forms of civic footprints effected by leaders will be weighted variables for the leader's civic participation indice score.  
 As a yard stick or a scorecard to help those in need of improvement or to reward those who have excelled at civic engagement and participation. 
 Use the platform to help standardize the civic index as the agreed scientific ranking and measure of civic participatory engagement. 
@@ -138,3 +138,4 @@ Besides news, articles and research, the citizen participation network as a plat
 
 ## Participation Chapters
 Facilitate the creation and moderation of Global civic participation chapters that adapt uniquely to different global locales. A need that will require the platform to support many languages. This will help civic exchange across geopolitical lines. 
+Engineering the platform to interconnect global geopolitical chapters.
