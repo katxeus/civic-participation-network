@@ -138,3 +138,6 @@ Besides news, articles and research, the citizen participation network as a plat
 
 ## Participation Chapters
 Facilitate the creation and moderation of Global civic participation chapters that adapt uniquely to different global locales. A platorm requirement for multilingual support. This will help civic exchange across geopolitical lines.  Engineering the platform to interconnect global geopolitical chapters.
+
+## Decentralized Unions
+These are to feature specialized, niche and focused participation and engagements
