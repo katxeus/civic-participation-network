@@ -140,4 +140,5 @@ Besides news, articles and research, the citizen participation network as a plat
 Facilitate the creation and moderation of Global civic participation chapters that adapt uniquely to different global locales. A platorm requirement for multilingual support. This will help civic exchange across geopolitical lines.  Engineering the platform to interconnect global geopolitical chapters.
 
 ## Decentralized Unions
-Specialized niche and focused participation and engagements 
+Specialized niche and focused participation and engagements as a way to group and separate participation and engagements 
+
