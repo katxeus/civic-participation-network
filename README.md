@@ -142,3 +142,5 @@ Facilitate the creation and moderation of Global civic participation chapters th
 ## Decentralized Unions
 Specialized niche and focused participation and engagements as a way to group and separate participation and engagements 
 
+## Protocol for Civic Participation Networking
+The Authentication Transfer Protocol as a federated social network. It integrates ideas from the latest decentralized technologies
