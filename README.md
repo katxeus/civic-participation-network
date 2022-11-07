@@ -145,3 +145,6 @@ Specialized niche and focused participation and engagements as a way to group an
 ## Protocol for Civic Participation Networking
 The Authentication Transfer Protocol as a federated social network. It integrates ideas from the latest decentralized technologies
 This federation mechanism will allow decentralized platforme. This exempts it from corporate takeover or buyouts hence remaining part of the citizenry 
+
+Federated Participation
+Feature federated civic participation where conservative and liberal ideologies can be decentralized to other instances. 
