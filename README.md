@@ -152,4 +152,4 @@ Feature federated civic participation where conservative and liberal ideologies 
 ## Reach and Speech
 Meaning that participating citizens will get a choice of provider, and individuals can self-host if they want.
 This features the ability for participating citizens to have transferable profiles across federated instances because of the interoperability presented by the Authentication protocol. 
-transparent moderation & curation, and user self-governance.
+transparent moderation & curation, and user self-governance. Such autonomy does prevent central control, sabotage, buyouts and influence 
