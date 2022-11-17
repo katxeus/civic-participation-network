@@ -153,3 +153,6 @@ Feature federated civic participation where conservative and liberal ideologies 
 Meaning that participating citizens will get a choice of provider, and individuals can self-host if they want.
 This features the ability for participating citizens to have transferable profiles across federated instances because of the interoperability presented by the Authentication protocol. 
 transparent moderation & curation, and user self-governance. Such autonomy does prevent central control, sabotage, buyouts and influence 
+
+## Ditributed Fault Torellence and Outage
+Like other federated protocols, the citizen participation network will formulated around the concept of distributed systems to allow content from one instance to be synchronised to another instances with fault torollence and outage in mind.
