@@ -155,4 +155,4 @@ This features the ability for participating citizens to have transferable profil
 transparent moderation & curation, and user self-governance. Such autonomy does prevent central control, sabotage, buyouts and influence 
 
 ## Ditributed Fault Torellence and Outage
-Like other federated protocols, the citizen participation network will formulated around the concept of distributed systems to allow content from one instance to be synchronised to another instances with fault torollence and outage in mind.
+Like other federated protocols, the citizen participation network will formulated around the concept of distributed systems to allow content from one instance to be synchronised to another instances with fault torollence and outage in mind. This is to also a feature to circumnavigate censorship and blockade by governments and regimes.
