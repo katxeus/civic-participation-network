@@ -157,5 +157,6 @@ transparent moderation & curation, and user self-governance. Such autonomy does 
 ## Ditributed Fault Torellence and Outage protocol
 Like other federated protocols, the citizen participation network will formulated around the concept of distributed systems to allow content from one instance to be synchronised to another instances with fault torollence and outage in mind. This is to also a feature to circumnavigate censorship and blockade by governments and regimes.
 
-## Account portability
+## Account portability and transferability 
 A person’s online identity should not be owned by corporations with no accountability to their users. With the AT Protocol, you can move your account from one provider to another without losing any of the data or social graph. This is to help the participating citizenry to joing and leave any instance at will
+
