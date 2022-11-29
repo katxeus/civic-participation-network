@@ -161,4 +161,5 @@ Like other federated protocols, the citizen participation network will formulate
 Anyone's online identity should not be owned by corporations with no accountability to their users. With the AT Protocol, you can move your account from one provider to another without losing any of the data or social graph. This is to help the participating citizenry to joing and leave any instance at will
 
 ## Autonomous Instances
+The decentralized protocol is to provide autonomous existence 
 
