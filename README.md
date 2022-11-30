@@ -162,4 +162,4 @@ Anyone's online identity should not be owned by corporations with no accountabil
 
 ## Autonomous Instances
 The decentralized protocol is to provide autonomous existence 
-
+This also allow instances redundancy 
