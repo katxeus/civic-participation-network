@@ -158,7 +158,7 @@ transparent moderation & curation, and user self-governance. Such autonomy does 
 Like other federated protocols, the citizen participation network will formulated around the concept of distributed systems to allow content from one instance to be synchronised to another instances with fault torollence and outage in mind. This is to also a feature to circumnavigate censorship and blockade by governments and regimes.
 
 ## Account portability and transferability 
-Anyone's online identity should not be owned by corporations with no accountability to their users. With the AT Protocol, you can move your account from one provider to another without losing any of the data or social graph. This is to help the participating citizenry to joing and leave any instance at will
+Anyone's online identity should not be owned by corporations with no accountability to their users. With the AT Protocol, you can move your account from one provider to another without losing any of the data or social graph. This is to help the participating citizenry to joing and leave any instance at will. User choice requires portability for identity, data, payments, and any other service. When people can switch providers without losing their identity or social graph, then social media can work as a competitive open market again.
 
 ## Autonomous Instances
 The decentralized protocol is to provide autonomous existence 
