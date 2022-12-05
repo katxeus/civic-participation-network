@@ -160,6 +160,6 @@ Like other federated protocols, the citizen participation network will formulate
 ## Account portability and transferability 
 Anyone's online identity should not be owned by corporations with no accountability to their users. With the AT Protocol, you can move your account from one provider to another without losing any of the data or social graph. This is to help the participating citizenry to joing and leave any instance at will. User choice requires portability for identity, data, payments, and any other service. When people can switch providers without losing their identity or social graph, then social media can work as a competitive open market again.
 
-## Autonomous Instances as Redundancies
+## Autonomous Instances as Outage Redundancies
 The decentralized protocol is to provide autonomous existence 
-This also allow instances redundancy 
+This also allow instances redundancy is a measure for fault torrelence and outage. 
