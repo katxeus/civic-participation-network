@@ -163,3 +163,4 @@ Anyone's online identity should not be owned by corporations with no accountabil
 ## Autonomous Instances as Outage Redundancies
 The decentralized protocol is to provide autonomous existence 
 This also allow instances redundancy is a measure for fault torrelence and outage. 
+The same ability to decentralize, will prevent authoritarian compromise where authorities that quell dissent through backdoor access, can't. 
