@@ -166,3 +166,4 @@ This also allow instances redundancy is a measure for fault torrelence and outag
 The same ability to decentralize data and processes, provides the preventive ability from authoritarian regimes and governments to compromise to quell dissent through backdoor access or other forms of infiltration. But also, a system wide sos of such infiltration is sent. 
 
 ## Research and Development in Federated Protocols 
+This is to further research and developement on federated protocols and offer this project's protocol as an open source software
