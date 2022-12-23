@@ -168,3 +168,6 @@ The same ability to decentralize data and processes, provides the preventive abi
 ## Research and Development in Federated Protocols 
 This is to further research and developement on federated protocols and offer this project's protocol as an open source software. 
 This will be a starting to cub censorship, blockage and qeull of dissent. Anonymous accountability and participation 
+
+## de-identification
+Integrate de-identification that remove all personal identifying information for privacy 
