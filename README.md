@@ -174,3 +174,6 @@ Integrate de-identification that remove all personal identifying information for
 
 ## Beyond Social Standards
 The CPN platform and a decentralized standard represents a rebellion against an increasingly centralized web, a core design goal and the predecessors it built upon, such as GNU Social. But also learns from imperfections in the standard to questions of how online communities should form to efforts to reach beyond the standard post/comment/follow format of typical social networks.
+
+## Adapting the AT Protocol 
+Adapting the AT Protocol (Authenticated Transfer Protocol) at https://github.com/katxeus/atproto
