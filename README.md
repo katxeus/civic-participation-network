@@ -177,4 +177,4 @@ The CPN platform and a decentralized standard represents a rebellion against an 
 
 ## Adapting the AT Protocol 
 Adapting the AT Protocol (Authenticated Transfer Protocol) at https://github.com/katxeus/atproto 
-This is to advance the AT protocol with improvements in account identify that is to say, with de-identification protocols for privacy and and anonymity.
+This is to advance the AT protocol with improvements in account identify that is to say, with de-identification protocols for privacy and and anonymity. This therefore puts an opportunity to enhance the current Authenticated Transfer Protocol (AT) to be rengineered to cater for the most important question of the century .i.e, privacy.
