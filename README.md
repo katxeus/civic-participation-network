@@ -180,4 +180,4 @@ Adapting the AT Protocol (Authenticated Transfer Protocol) at https://github.com
 This is to advance the AT protocol with improvements in account identify that is to say, with de-identification protocols for privacy and and anonymity. This therefore puts an opportunity to enhance the current Authenticated Transfer Protocol (AT) to be rengineered to cater for the most important question of the century .i.e, privacy. 
 
 ## Content Moderation
-This is to borrow heavily from karl Popper's Paradox of Tolerance.
+This is to borrow heavily from karl Popper's Paradox of Tolerance. A global governance problem, which is that it's impossible to make a set of governance rules that a billion people can agree to.
