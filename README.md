@@ -179,5 +179,5 @@ The CPN platform and a decentralized standard represents a rebellion against an 
 Adapting the AT Protocol (Authenticated Transfer Protocol) at https://github.com/katxeus/atproto 
 This is to advance the AT protocol with improvements in account identify that is to say, with de-identification protocols for privacy and and anonymity. This therefore puts an opportunity to enhance the current Authenticated Transfer Protocol (AT) to be rengineered to cater for the most important question of the century .i.e, privacy. 
 
-## Content Moderation
+## Moderation
 This is to borrow heavily from karl Popper's Paradox of Tolerance. A global governance problem, which is that it's impossible to make a set of governance rules that a billion people can agree to. This is to help balance reach and torelence. 
