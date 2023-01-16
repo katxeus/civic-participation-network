@@ -183,4 +183,4 @@ This is to advance the AT protocol with improvements in account identify that is
 This is to borrow heavily from karl Popper's Paradox of Tolerance. A global governance problem, which is that it's impossible to make a set of governance rules that a billion people can agree to. This is to help balance reach and torelence. 
 
 ## Bots Detection
-Engage a robust pattern recognition for automated activities 
+Engage a robust pattern recognition for automated activities by bots and other non human users and perhaps engineer a specialize protocol that recognizes non human users.
