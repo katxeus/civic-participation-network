@@ -187,3 +187,6 @@ Engage a robust pattern recognition for automated activities by bots and other n
 
 ## Anonymity Mode for Registered Account
 This is to feature registered users to engaged and participate on the platform anonymously. This enables their accounts to switch to anonymous mode without users depending on other alias accounts for fear of retribution. This will save the platform double or even triple account holding. This ability to for accounts to switch roles will be the first of its kind to de-identify accounts and presence. Often times account holders wish to engage on sensitive topics with their identities with-held but because, current platforms do justify accounts with identities for advertisment dollars, this is not possible.
+
+## Differing Account Roles
+Building from anonymity, this exemplifies the scenarios for user accounnts taking on multiple roles, or multiple sub aacounts. A super account having sub accounts with differing roles, identity and therefore personalities. A way to anthropomorphize user identity.
