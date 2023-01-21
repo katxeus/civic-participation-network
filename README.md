@@ -170,7 +170,7 @@ This is to further research and developement on federated protocols and offer th
 This will be a starting to cub censorship, blockage and qeull of dissent. Anonymous accountability and participation 
 
 ## de-identification
-Integrate de-identification that remove all personal identifying information for privacy 
+Integrate de-identification that remove all personal identifying information for privacy. This also relates to the right to be forgoten for example, accounts who owners are deceased. 
 
 ## Beyond Social Standards
 The CPN platform and a decentralized standard represents a rebellion against an increasingly centralized web, a core design goal and the predecessors it built upon, such as GNU Social. But also learns from imperfections in the standard to questions of how online communities should form to efforts to reach beyond the standard post/comment/follow format of typical social networks.
@@ -189,4 +189,4 @@ Engage a robust pattern recognition for automated activities by bots and other n
 This is to feature registered users to engaged and participate on the platform anonymously. This enables their accounts to switch to anonymous mode without users depending on other alias accounts for fear of retribution. This will save the platform double or even triple account holding. This ability to for accounts to switch roles will be the first of its kind to de-identify accounts and presence. Often times account holders wish to engage on sensitive topics with their identities with-held but because, current platforms do justify accounts with identities for advertisment dollars, this is not possible .This will help protected persecuted ethinic, racial and sexual and gender minorities.
 
 ## Differing Account Roles
-Building from anonymity, this exemplifies the scenarios for user accounnts taking on multiple roles, or multiple sub aacounts. A super account having sub accounts with differing roles, identity and therefore personas. A way to anthropomorphize user identity, behaviour and civic engagement patterns.
+Building from anonymity, this exemplifies the scenarios for user accounnts taking on multiple roles, or multiple sub aacounts. A super account having sub accounts with differing roles, identity and therefore personas. A way to anthropomorphize user identity, behaviour and civic engagement patterns. 
