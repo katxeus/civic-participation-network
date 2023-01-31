@@ -191,3 +191,4 @@ This is to feature registered users to engaged and participate on the platform a
 
 ## Differing Account Roles
 Building from anonymity, this exemplifies the scenarios for user accounnts taking on multiple roles, or multiple sub aacounts. A super account having sub accounts with differing roles, identity and therefore personas. A way to anthropomorphize user identity, behaviour and civic engagement patterns. Accounts can be 
+Transfer of an instance to another server. 
