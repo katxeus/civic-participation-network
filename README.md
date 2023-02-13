@@ -169,7 +169,7 @@ The same ability to decentralize data and processes, provides the preventive abi
 This is to further research and developement on federated protocols and offer this project's protocol as an open source software. 
 This will be a starting to cub censorship, blockage and qeull of dissent. Anonymous accountability and participation 
 
-## de-identification
+## de-identification of accounts 
 Integrate de-identification that remove all personal identifying information for privacy. This also relates to the right to be forgoten for example, accounts who owners are deceased. 
 
 ## Beyond Social Standards
