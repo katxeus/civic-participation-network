@@ -8,7 +8,7 @@ This is to champion digital inclusivity by conceptualizing a proxy representatio
 
 Civic literacy centers on the belief that an aware, informed and engaged citizens are society's greatest assets for solving the most critical problems in our communities. The adoption of state of the art technology and knowledge across sectors would provide powerful new tools for democratic engagement and problem solving. This is to embrace learning through experimentation, network building and knowledge sharing to advance the civic potential of people and technology.
 
-## Open Gov't
+## Open Government 
 This is to showcase fundamental rethinking to the concept of open government.
 
 ## Citizen as co-producer/Administrator co-producer: 
