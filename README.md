@@ -35,8 +35,7 @@ Engineered with the ability to function with partial outage and full outage in o
 Manifestos and mandates are executed as Smart contracts against which  evaluations and needs assessment mechanisms are benchmarked against. 
 
 ## Actionable Civic Tools
-These are to include tools such as petitions and anti-voting-rigging mechanisms that are grounded in technical principles of the blockchain. 
-and cryptography 
+These are to include tools such as petitions and anti-voting-rigging mechanisms that are grounded in technical principles of the blockchain and cryptography 
 
 ## Whistle Blowing
 As a platform for civic deliberation, with the ability for both open and anonymous disclosure and uncovering of wrong doing will be supported and other exposure mechanisms for accountability. This will be grounded in anonymity and privacy. 
@@ -68,7 +67,7 @@ This will also implement the ability for civic communication standards and proto
 ## Civic Idiation 
 The platform is to provide an environment to foster and enourage theorization and idiation of civic concepts and alternatives to civic challenges and opportunities.
 
-## Mentorship 
+## Mentorship and Apprentiships
 A platform to mentor civic participation to the next generation of leaders and the citizenry. 
 
 ## Civic Petitioning
