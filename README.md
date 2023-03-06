@@ -181,7 +181,7 @@ This is to advance the AT protocol with improvements in account identify that is
 ## Protective Moderation 
 This is to borrow heavily from karl Popper's Paradox of Tolerance. A global governance problem, which is that it's impossible to make a set of governance rules that a billion people can agree to. This is to help balance reach and torelence. 
 
-## Cyber Bots Detection
+## CyberBots Detection
 Engage a robust pattern recognition for automated activities by bots and other non human users and perhaps engineer a specialize protocol that recognizes non human users. This will also include specialized detection for synthetic speech, literal material and chats. This is exemplified by advance in Generative Pre-trained Transformer and related sythentic speech technologies for chatbots for synthesing speech and response.
 This is also to safe guard against spammed responses that auto repeat. 
 
