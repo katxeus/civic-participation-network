@@ -193,3 +193,4 @@ Building from anonymity, this exemplifies the scenarios for user accounnts takin
 Transfer of an instance to another server. 
 
 ## Instances as Developer Sandboxes 
+This is to allow reversible edits and content creation 
